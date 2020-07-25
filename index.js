@@ -46,12 +46,12 @@ function playAudio(key) {
       break;
 
     case "o":
-      var snare1 = new Audio("sounds/SnareDrum1.mp3");
+      var snare1 = new Audio("sounds/Snaredrum1.mp3");
       snare1.play();
       break;
 
     case "l":
-      var snare2 = new Audio("sounds/SnareDrum2.mp3");
+      var snare2 = new Audio("sounds/Snaredrum2.mp3");
       snare2.play();
       break;
 
